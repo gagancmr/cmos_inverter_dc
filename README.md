@@ -1,6 +1,6 @@
 # cmos_inverter_dc
-## REG NUM :
-## NAME :
+## REG NUM :25011767
+## NAME :Khotla Gagan Prathyush
 ## EXPERIMENT 2.b Design CMOS inverter and Perform DC and OP analysis.
 
 ## Aim: To Design CMOS inverter and Perform DC and OP analysis.
@@ -55,6 +55,7 @@ To be plotted–Select on Schematic in the simulation window.
 Follow the prompt at the bottom of the schematic window, Click on output net Vout, input net Vin of the Inverter.
 
 ## Waveform:
+<img width="975" height="553" alt="image" src="https://github.com/user-attachments/assets/0213764d-8931-4ff4-8764-4bfa7100118c" />
 
 
 ## RESULT:
